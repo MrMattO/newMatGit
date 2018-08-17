@@ -5,3 +5,6 @@ Black
 Brown
 Yellow
 Orange
+Violet
+Purple
+Teal
